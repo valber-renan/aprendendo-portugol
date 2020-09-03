@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+		escreva("projeto idade")
 		inteiro totaldias,ano,mes,dia
 		cadeia nome
 		escreva("entre com seu nome:")
@@ -23,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 323; 
+ * @POSICAO-CURSOR = 59; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
